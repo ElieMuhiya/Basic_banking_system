@@ -1,0 +1,4 @@
+﻿  c++_project_bank_system.cpp
+c:\users\muhiy\source\repos\c++_project_bank_system\c++_project_bank_system\c++_project_bank_system.cpp(19): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\muhiy\source\repos\c++_project_bank_system\c++_project_bank_system\c++_project_bank_system.cpp(37): warning C4101: 'close': unreferenced local variable
+  c++_project_bank_system.vcxproj -> c:\users\muhiy\Source\Repos\c++_project_bank_system\Debug\c++_project_bank_system.exe
